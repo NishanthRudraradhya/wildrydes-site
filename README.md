@@ -1,4 +1,4 @@
 # wildrydes-site
 wildrydes-site
 
-Build a Serverless Web Application
+A Serverless Web Application
