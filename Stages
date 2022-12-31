@@ -1,4 +1,11 @@
 HOST A STATIC WEBSITE ( AWS Amplify )
+Configure AWS Amplify to host the static resources for your web application with continuous deployment built in.
+
 MANAGE USERS ( Amazon Cognito )
+Create an Amazon Cognito user pool to manage your users' accounts.
+
 BUILDING A SERVERLESS BACKEND ( AWS Lambda)
+Build a backend process for handling requests for your web application.
+
 DEPLOYING A RESTFUL API ( API Gateway )
+Use Amazon API Gateway to expose the Lambda function you built in the previous module as a RESTful API.
